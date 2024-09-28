@@ -56,7 +56,7 @@
 <img align="left" style="padding-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
 <img align="left" style="padding-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="30" height="30"/>
 <img align="left" style="padding-right: 10px;" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30" height="30"/>
-
+<img align="left" style="padding-right: 10px;" src="https://camo.githubusercontent.com/e62ea4d714f03ea49eb44b92e320c2fa88ebf07489d885f9b2e82874aca0c5be/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f322f32392f506f737467726573716c5f656c657068616e742e737667" alt="PostgreSQL" width="30" height="30">
 
 #     
 
