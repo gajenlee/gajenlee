@@ -4,8 +4,8 @@
 `(Software Developer/Creator/UI and UX Dsigner)`
 
 <p align="center">
- <img src="https://github.com/user-attachments/assets/a22bcea9-4279-4a53-989d-9098e11d0bac" alt="software developer gif" height="200">
  <img src="https://github.com/user-attachments/assets/25cd316e-2514-4195-b381-cf220f839e04" alt="software developer gif" height="200">
+ <img src="https://github.com/user-attachments/assets/a22bcea9-4279-4a53-989d-9098e11d0bac" alt="software developer gif" height="200">
 </p>
 
  
