@@ -2,11 +2,10 @@
 
 # Hi 👋, I'm Gajendran
 
- 
+![Profile views](https://komarev.com/ghpvc/?username=gajenlee&style=flat-square&color=blue) 
 <p align="left"> 
  <a href="https://twitter.com/gajenlee" target="blank"><img src="https://img.shields.io/twitter/follow/gajenlee?logo=twitter&style=for-the-badge" alt="gajenlee" /></a>
 </p>
-![](https://komarev.com/ghpvc/?username=gajenlee&color=green)
 
 
 - 🌱 I’m currently learning **AI, ML, and DL**
