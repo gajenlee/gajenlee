@@ -6,7 +6,7 @@
 <p align="left"> 
  <a href="https://twitter.com/gajenlee" target="blank"><img src="https://img.shields.io/twitter/follow/gajenlee?logo=twitter&style=for-the-badge" alt="gajenlee" /></a>
 </p>
-![Profile views](https://komarev.com/ghpvc/?username=gajenlee)
+![](https://komarev.com/ghpvc/?username=gajenlee&color=green)
 
 
 - 🌱 I’m currently learning **AI, ML, and DL**
