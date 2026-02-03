@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Gajendran
 
-![Profile views](https://komarev.com/ghpvc/?username=gajenlee&style=flat-square&color=blue) 
+![Profile views](https://komarev.com/ghpvc/?username=gajenlee&style=flat-square&color=red) 
 <p align="left"> 
  <a href="https://twitter.com/gajenlee" target="blank"><img src="https://img.shields.io/twitter/follow/gajenlee?logo=twitter&style=for-the-badge" alt="gajenlee" /></a>
 </p>
